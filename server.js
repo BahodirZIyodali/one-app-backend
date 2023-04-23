@@ -16,14 +16,7 @@ app.use(function(req, res, next) {
     next();
   });
   
-  // With vanilla Node.js http module
-  const http = require('http');
-  const server = http.createServer((req, res) => {
-    res.setHeader("Access-Control-Allow-Origin", "http://localhost:5173/"); // Update with the origin that you need to allow
-    res.setHeader("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
-    res.writeHead(200, {"Content-Type": "text/plain"});
-    res.end();
-  });
+
   
 app.use(express.json())
 app.use(jobRouter)
