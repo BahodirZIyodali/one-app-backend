@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "number": 21,
+      "name": " Internship jobs",
+      "desc": "Explore Internship jobs from different companies like iTechArt, Netflix, Uniplaces"
+    },
+    {
+      "id": 2,
+      "number":10,
+      "name": " Sales jobs",
+      "desc": " Explore Sales jobs from different companies like UXSSR, QALAMPIR"
+    },
+    {
+      "id": 3,
+      "number": 15,
+      "name": " Developer jobs",
+      "desc": " Explore Web Development jobs from different companies like Data"
+    },
+    {
+      "id": 4,
+      "number": 66,
+      "name": " Junior jobs",
+      "desc": "Explore Junior jobs from different companies like Studlandia.com,"
+    },
+    {
+      "id": 5,
+      "number": 7,
+      "name": " Design jobs",
+      "desc": "Explore Design jobs from different companies like CodeSmart, Najot Ta'lim"
+    },
+    {
+      "id": 6,
+      "number": 34,
+      "name": " Marketing jobs",
+      "desc": "  Explore Marketing jobs from different companies like Artel, HR Network, Sibdev"
+    }
+  ]
