@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "img": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_384,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_828,q_auto/https://blog.trello.com/hubfs/download%20%2825%29.png",
+    "title": "10 Expert Tips For Starting A New Job And Ensuring First-Week Success",
+    "authorImg": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_32,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_64,q_auto/https://blog.trello.com/hubfs/Blog_Authors/amy_rigby.jpg",
+    "name": "by By Amy Rigby",
+    "created_at": "March 25, 2021"
+  },
+  {
+    "id": 2,
+    "img": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_384,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_828,q_auto/https://images.wsj.net/im-257522?width=860&size=1.5005861664712778&pixel_ratio=3",
+    "title": "Job Interview Preparation Tips to Help You Stand Out",
+    "authorImg": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_32,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_64,q_auto/https://images.wsj.net/im-199507/AM",
+    "name": "by By Deborah Acosta",
+    "created_at": "June 10, 2021"
+  },
+  {
+    "id": 3,
+    "img": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_384,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_828,q_auto/https://hbr.org/resources/images/article_assets/2021/06/A_Jul21_01_102283878.jpg",
+    "title": "Career Advice from Wildly Successful People",
+    "authorImg": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_32,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_64,q_auto/https://hbr.org/resources/images/article_assets/2016/10/110-amantha-imber.jpg",
+    "name": "by Amantha Imber",
+    "created_at": "June 30, 2021"
+  },
+  {
+    "id": 4,
+    "img": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_384,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_828,q_auto/https://imageio.forbes.com/specials-images/imageserve/61eb0cf6a97da7b2a3156195/butterfly-in-a-field/960x0.jpg?fit=bounds&format=jpg&width=960",
+    "title": "How To Ace The 50 Most Common Interview",
+    "authorImg": "https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_32,q_auto/https://res.cloudinary.com/one-app/image/fetch/f_auto,c_limit,w_64,q_auto/https://secure.gravatar.com/avatar/d73c0361aae1db881fb9fec56fb63b80?s=400&d=mm&r=g",
+    "name": "by Jacquelyn Smith",
+    "created_at": "June 30, 2021"
+  }
+]
