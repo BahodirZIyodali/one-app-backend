@@ -8,6 +8,7 @@ const articleRouter =require("./ctrAndRouter/article")
 dotenv.config()
 const PORT = process.env.PORT || 5001
 
+
 const app = express()
 app.use(function(_, res, next) {
     res.header("Access-Control-Allow-Origin", "*");
