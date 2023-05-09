@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "Shermat",
+        "email": "shermat@gmail.com",
+        "password": "shermat123"
+    },
+    {
+        "id": "2f475433-fe99-4b51-bad6-8ccce7479cf4",
+        "username": "Toshmat",
+        "email": "toshmat707@gmail.com",
+        "password": "$2a$12$GllBfC1F4E6RH8B1TAzXretw5qZTqAMWUipoL9cC24EbvtZHu.ErK"
+    },
+    {
+        "id": "c9d4d33c-4fa9-4703-86ef-b02091401917",
+        "username": "Sendir",
+        "email": "sendir777@gmail.com",
+        "password": "$2a$12$L207Js8DNBxmReP1qY3Zj.OljdMhLaSb/V9GuEhy2tBThTBS4LwH."
+    }
+]

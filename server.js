@@ -5,6 +5,8 @@ const jobRouter =require("./ctrAndRouter/jobs")
 const vacanciesRouter =require("./ctrAndRouter/vacancies")
 const compRouter =require("./ctrAndRouter/componies")
 const articleRouter =require("./ctrAndRouter/article")
+const authRouter =require("./ctrAndRouter/auth")
+
 dotenv.config()
 const PORT = process.env.PORT || 5001
 
@@ -21,6 +23,8 @@ app.use(jobRouter)
 app.use(vacanciesRouter)
 app.use(compRouter)
 app.use(articleRouter)
+app.use(authRouter)
+
 
 
 
