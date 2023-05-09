@@ -16,5 +16,11 @@
         "username": "Sendir",
         "email": "sendir777@gmail.com",
         "password": "$2a$12$L207Js8DNBxmReP1qY3Zj.OljdMhLaSb/V9GuEhy2tBThTBS4LwH."
+    },
+    {
+        "id": "dcaaf479-218e-4a8d-b5e4-fab0762bb37c",
+        "username": "Shermat",
+        "email": "sheasasrmat@gmail.com",
+        "password": "$2a$12$kRxtUGpZyh6xvORhopIN2e4YP8jDHxupNELUwtD6H0C3XC09nX03i"
     }
 ]
